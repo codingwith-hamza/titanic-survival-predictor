@@ -1,6 +1,6 @@
 # Titanic Passenger Survival Predictor
 
-**Live demo (Streamlit):** _<ADD-YOUR-STREAMLIT-APP-URL-HERE>_
+**Live demo (Streamlit):** _https://codingwith-hamza-titanic-survival-predictor-app-tslyb8.streamlit.app/_
 
 A small Streamlit web app that serves the **Support Vector Classifier** trained in
 the instructor's *Titanic Passenger Survival Prediction* notebook
